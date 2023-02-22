@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - print_putchar
+ * main - print _putchar
  * is by Umar
- * Return: 0
+ * Return; 0
  */
 
 int main(void)
